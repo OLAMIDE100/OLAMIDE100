@@ -1,6 +1,7 @@
 ## Hello👋🏾. Thank you for visiting my profile 👩🏾‍💻
 
-<img src=Orange Photo Minimal Welcome Card.png>
+![](Orange Photo Minimal Welcome Card.png)
+
 
 As a Data analyst and scientist, i am versatile in building models that translate data points into business insights using various data analytic and visualization tools. I like to
 explore the relationships between numbers, and translate digits and spreadsheets into stories. In the age of big data, these stories become actionable solutions and strategies for businesses, and I take pride in my ability to make data accessible to both executive decision-makers and frontline sales staf.
