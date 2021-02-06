@@ -1,6 +1,6 @@
 ## Hello👋🏾. Thank you for visiting my profile 👩🏾‍💻
 
-![](https://github.com/OLAMIDE100/ADESOBA-ADEWALE-OLAMIDE/blob/main/Orange%20Photo%20Minimal%20Welcome%20Card.png)
+![](https://github.com/OLAMIDE100/ADESOBA-ADEWALE-OLAMIDE/blob/main/Orange%20Photo%20Minimal%20Welcome%20Card%20(1).png)
 
 
 As a Data analyst and scientist, i am versatile in building models that translate data points into business insights using various data analytic and visualization tools. I like to
