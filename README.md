@@ -1,6 +1,6 @@
 ## Hello👋🏾. Thank you for visiting my profile 👩🏾‍💻
 
-![](https://github.com/OLAMIDE100/ADESOBA-ADEWALE-OLAMIDE/blob/main/Orange%20Photo%20Minimal%20Welcome%20Card%20(1).png)
+![](https://github.com/OLAMIDE100/OLAMIDE100/blob/main/I%20have%20the%20breadth%20of%20experience%20and%20skills%20to%20quickly%20assimilate%20a%20huge%20amount%20of%20data%20to%20come%20up%20with%20an%20approach%20to%20asses%20the%20problem%20and%20address%20it..png)
 
 
 As a Data analyst and scientist, i am versatile in building models that translate data points into business,engineering and innovation insights using various data analytic and visualization tools. I like to explore the relationships between numbers, and translate digits and spreadsheets into stories. In the age of big data, these stories become actionable and executable solutions and strategies for businesses,technology,finance and marketing.I take pride in my ability to make data accessible to both executive decision-makers and frontline users.
