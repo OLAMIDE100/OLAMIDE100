@@ -7,6 +7,18 @@ As a Data analyst and scientist, i am versatile in building models that translat
 
 I am experienced in machine learning, supervised algorithms and use data visualization techniques to present the results. I use SQL, Python, Microsoft PowerBI and Tableau for my data projects and am very good in debugging.
 
+<h3>My Skills include 👨‍💻</h3>
+<div>
+    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/fortune-uwha/fortune-uwha/blob/main/Gif/Fortune-octocat-rotating.gif?raw=true"></a> 
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/adesoba-olamide-gmnse-787193169/)
 
