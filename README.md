@@ -32,7 +32,7 @@ I am experienced in machine learning, supervised algorithms and use data visuali
     
 </div>
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/fortune-uwha/fortune-uwha/blob/main/Gif/Fortune-octocat-rotating.gif?raw=true"></a> 
+## Find me around the web 🌎: <a href=""><img align="left" width="150" height="150" src="https://github.com/fortune-uwha/fortune-uwha/blob/main/Gif/Fortune-octocat-rotating.gif?raw=true"></a> 
 <div>
     <a href="https://www.linkedin.com/in/adesoba-olamide-gmnse-787193169/">
         <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
