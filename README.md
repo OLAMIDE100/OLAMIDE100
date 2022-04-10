@@ -35,10 +35,10 @@ I am experienced in machine learning, supervised algorithms and use data visuali
 ## Find me around the web 🌎: <a href=""><img align="left" width="150" height="150" src="https://github.com/fortune-uwha/fortune-uwha/blob/main/Gif/Fortune-octocat-rotating.gif?raw=true"></a> 
 <div>
     <a href="https://www.linkedin.com/in/adesoba-olamide-gmnse-787193169/">
-        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
+        <img src="https://user-images.githubusercontent.com/40443167/162639626-3d3ae8bd-e02e-4854-aeb0-b0ffa457184a.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="mailto: adesoba5@gmail.com">
-        <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
+        <img src="https://user-images.githubusercontent.com/40443167/162639747-6f6067e8-0fc0-480d-b820-58594dd93390.png" width="30px">
     </a>&nbsp;&nbsp;
 </div>
 
