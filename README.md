@@ -1,7 +1,13 @@
 ## Hello👋🏾. Thank you for visiting my profile 👩🏾‍💻
 
 
-As a Data-Intensive Programmer, i am versatile in building models that translate data points into business,engineering and innovation insights using various data analytic and visualization tools. I like to explore the relationships between numbers, and translate digits and spreadsheets into stories. In the age of big data, these stories become actionable and executable solutions and strategies for businesses,technology,finance and marketing.I take pride in my ability to make data accessible to both executive decision-makers and frontline users.
+As a Data-Intensive Engineer, I am versatile  with the identification, selection and development of efficient data systems and pipelines that allow seamless and secured movement of data across all processes to make data driven decisions.
+
+I have managed data and  business analytics tools that speaks to the company’s needs and problems by utilizing them  with data warehouses to facilitate efficient organization and access
+
+Over the years I have engaged myself in projects that bring together data science, data analytics, and data engineering; developed and maintained prediction systems that help to discover hidden insights and provide a better view on ways to solve problems that drive the company’s growth and stability.
+ 
+I am experienced in Mlops (mlflow, evidently AI), big data tools (spark, airflow, prefect, docker )and the use of data visualization techniques to present the results. I use SQL, Python, Microsoft PowerBI, and cloud technologies (GCP, AWS) for my data projects and am very good at troubleshooting problems to arrive at solutions in a timely manner.
 
 I am experienced in machine learning, supervised algorithms and use data visualization techniques to present the results. I use SQL, Python, Microsoft PowerBI and Tableau for my data projects and am very good in debugging.
 
