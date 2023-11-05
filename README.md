@@ -1,15 +1,13 @@
 ## Hello👋🏾. Thank you for visiting my profile 👩🏾‍💻
 
 
-As a Data-Intensive Engineer, I am versatile  with the identification, selection and development of efficient data systems and pipelines that allow seamless and secured movement of data across all processes to make data driven decisions.
+As a Data/DataOps/Cloud-Intensive Engineer, my expertise lies in recognizing, choosing, and creating effective data systems and pipelines. These systems enable smooth and secure data flow throughout all processes, empowering data-driven decision-making.
 
-I have managed data and  business analytics tools that speaks to the company’s needs and problems by utilizing them  with data warehouses to facilitate efficient organization and access
+Throughout my career, I have successfully overseen data management and business analytics tools tailored to meet the specific needs and challenges of the company. By integrating these tools with data warehouses, I have ensured efficient organization and accessibility of information.
 
-Over the years I have engaged myself in projects that bring together data science, data analytics, and data engineering; developed and maintained prediction systems that help to discover hidden insights and provide a better view on ways to solve problems that drive the company’s growth and stability.
- 
-I am experienced in Mlops (mlflow, evidently AI), big data tools (spark, airflow, prefect, docker )and the use of data visualization techniques to present the results. I use SQL, Python, Microsoft PowerBI, and cloud technologies (GCP, AWS) for my data projects and am very good at troubleshooting problems to arrive at solutions in a timely manner.
+My professional journey has been marked by involvement in projects that converge data science, data analytics, and data engineering. Notably, I have designed and maintained prediction systems that unveil hidden insights and offer valuable solutions to drive the company's growth and stability.
 
-I am experienced in machine learning, supervised algorithms and use data visualization techniques to present the results. I use SQL, Python, Microsoft PowerBI and Tableau for my data projects and am very good in debugging.
+In pursuit of excellence, I leverage cloud technologies such as GCP and AWS, alongside DevOps best practices, for all my data projects. My proficiency in troubleshooting allows me to swiftly identify and implement solutions, ensuring timely project delivery.
 
 <h3>My Skills include 👨‍💻</h3>
 <div>
