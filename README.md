@@ -43,7 +43,7 @@ In pursuit of excellence, I leverage cloud technologies such as GCP and AWS, alo
 
 ## Find me around the web 🌎: <a href=""><img align="left" width="150" height="150" src="https://github.com/fortune-uwha/fortune-uwha/blob/main/Gif/Fortune-octocat-rotating.gif?raw=true"></a> 
 <div>
-    <a href="https://linkedin.com/in/olamide-adesoba-787193169/">
+    <a href="https://www.linkedin.com/in/olamide-adesoba-787193169/">
         <img src="https://user-images.githubusercontent.com/40443167/162639626-3d3ae8bd-e02e-4854-aeb0-b0ffa457184a.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="mailto: adesoba5@gmail.com">
